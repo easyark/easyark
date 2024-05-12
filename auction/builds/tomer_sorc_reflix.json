@@ -1,0 +1,92 @@
+{
+    "STONE": [
+        [
+            "Keen Blunt Weapon",
+            9
+        ],
+        [
+            "Raid Captain",
+            5
+        ]
+    ],
+    "BOOK": [
+        [
+            "Reflux",
+            12
+        ],
+        [
+            "Grudge",
+            12
+        ]
+    ],
+    "ENGRAVING_CHOICES": [
+        [
+            "Reflux",
+            15
+        ],
+        [
+            "Grudge",
+            15
+        ],
+        [
+            "Keen Blunt Weapon",
+            15
+        ],
+        [
+            "Raid Captain",
+            15
+        ],
+        [
+            "Hit Master",
+            15
+        ],
+        [
+            "Adrenaline",
+            5
+        ]
+    ],
+    "STATUS_REQUESTED": [
+        "Crit",
+        "Swiftness",
+        "Move Speed Reduction",
+        "Atk. Speed Reduction",
+        "Defense Reduction",
+        "Atk. Power Reduction"
+    ],
+    "EXCLUDED_STATUS": [
+        "Spec",
+        "Endurance",
+        "Domination",
+        "Expertise"
+    ],
+    "NEGATIVE_STATUSES": [
+        "Move Speed Reduction",
+        "Atk. Speed Reduction",
+        "Defense Reduction",
+        "Atk. Power Reduction"
+    ],
+    "SOLVER_TIMER": 60,
+    "FULL_MAIN_STAT": false,
+    "MAIN_STATUS": "Crit",
+    "BASE_MAIN_STATUS": 65,
+    "MAIN_STATUS_THRESHOLD": 400,
+    "MAIN_STATUS_THRESHOLD_TOTAL": 400,
+    "SECONDARY_STATUS": "Swiftness",
+    "BASE_SECONDARY_STATUS": 63,
+    "SECONDARY_STATUS_THRESHOLD": 400,
+    "SECONDARY_STATUS_THRESHOLD_TOTAL": 800,
+    "BRACELET_MAIN_STATUS": 108,
+    "BRACELET_SECONDARY_STATUS": 95,
+    "MAX_VALUE_RANGE": {
+        "start": 50000,
+        "step": 20000,
+        "stop": 150000
+    },
+    "SORT_BY_STATUS": true,
+    "ONLY_BUY_NOW": true,
+    "ONLY_BID": false,
+    "SPECIFIC_NEGATIVE": "Atk. Speed Reduction",
+    "NEGATIVE_THRESHOLD": 1,
+    "CHECK_PREDEFINED": false,
+    "PREDEFINED_ACCESSORY": []
+}

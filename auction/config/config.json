@@ -1,0 +1,67 @@
+{
+    "STONE": [
+        [
+            "Disrespect",
+            4
+        ],
+        [
+            "Disrespect",
+            4
+        ]
+    ],
+    "BOOK": [
+        [
+            "Mayhem",
+            9
+        ],
+        [
+            "Mayhem",
+            9
+        ]
+    ],
+    "ENGRAVING_CHOICES": [],
+    "STATUS_REQUESTED": [
+        "Spec",
+        "Crit",
+        "Move Speed Reduction",
+        "Atk. Speed Reduction",
+        "Defense Reduction",
+        "Atk. Power Reduction"
+    ],
+    "EXCLUDED_STATUS": [
+        "Swiftness",
+        "Endurance",
+        "Domination",
+        "Expertise"
+    ],
+    "NEGATIVE_STATUSES": [
+        "Move Speed Reduction",
+        "Atk. Speed Reduction",
+        "Defense Reduction",
+        "Atk. Power Reduction"
+    ],
+    "SOLVER_TIMER": 30,
+    "FULL_MAIN_STAT": true,
+    "MAIN_STATUS": "Spec",
+    "BASE_MAIN_STATUS": 60,
+    "MAIN_STATUS_THRESHOLD": 400,
+    "MAIN_STATUS_THRESHOLD_TOTAL": 1400,
+    "SECONDARY_STATUS": "Crit",
+    "BASE_SECONDARY_STATUS": 60,
+    "SECONDARY_STATUS_THRESHOLD": 400,
+    "SECONDARY_STATUS_THRESHOLD_TOTAL": 400,
+    "BRACELET_MAIN_STATUS": 70,
+    "BRACELET_SECONDARY_STATUS": 70,
+    "MAX_VALUE_RANGE": {
+        "start": 10000,
+        "step": 10000,
+        "stop": 100000
+    },
+    "SORT_BY_STATUS": false,
+    "ONLY_BUY_NOW": false,
+    "ONLY_BID": false,
+    "SPECIFIC_NEGATIVE": "Move Speed Reduction",
+    "NEGATIVE_THRESHOLD": 4,
+    "CHECK_PREDEFINED": false,
+    "PREDEFINED_ACCESSORY": []
+}

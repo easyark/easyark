@@ -1,0 +1,92 @@
+{
+    "STONE": [
+        [
+            "Master's Tenacity",
+            7
+        ],
+        [
+            "Raid Captain",
+            7
+        ]
+    ],
+    "BOOK": [
+        [
+            "Mayhem",
+            12
+        ],
+        [
+            "Grudge",
+            12
+        ]
+    ],
+    "ENGRAVING_CHOICES": [
+        [
+            "Mayhem",
+            15
+        ],
+        [
+            "Grudge",
+            15
+        ],
+        [
+            "Raid Captain",
+            15
+        ],
+        [
+            "Keen Blunt Weapon",
+            15
+        ],
+        [
+            "Master's Tenacity",
+            15
+        ],
+        [
+            "Ether Predator",
+            5
+        ]
+    ],
+    "STATUS_REQUESTED": [
+        "Crit",
+        "Swiftness",
+        "Move Speed Reduction",
+        "Atk. Speed Reduction",
+        "Defense Reduction",
+        "Atk. Power Reduction"
+    ],
+    "EXCLUDED_STATUS": [
+        "Spec",
+        "Endurance",
+        "Domination",
+        "Expertise"
+    ],
+    "NEGATIVE_STATUSES": [
+        "Move Speed Reduction",
+        "Atk. Speed Reduction",
+        "Defense Reduction",
+        "Atk. Power Reduction"
+    ],
+    "SOLVER_TIMER": 30,
+    "FULL_MAIN_STAT": false,
+    "MAIN_STATUS": "Crit",
+    "BASE_MAIN_STATUS": 60,
+    "MAIN_STATUS_THRESHOLD": 1200,
+    "MAIN_STATUS_THRESHOLD_TOTAL": 1500,
+    "SECONDARY_STATUS": "Swiftness",
+    "BASE_SECONDARY_STATUS": 60,
+    "SECONDARY_STATUS_THRESHOLD": 500,
+    "SECONDARY_STATUS_THRESHOLD_TOTAL": 700,
+    "BRACELET_MAIN_STATUS": 115,
+    "BRACELET_SECONDARY_STATUS": 90,
+    "MAX_VALUE_RANGE": {
+        "start": 50000,
+        "step": 50000,
+        "stop": 200000
+    },
+    "SORT_BY_STATUS": false,
+    "ONLY_BUY_NOW": true,
+    "ONLY_BID": false,
+    "SPECIFIC_NEGATIVE": "Defense Reduction",
+    "NEGATIVE_THRESHOLD": 2,
+    "CHECK_PREDEFINED": false,
+    "PREDEFINED_ACCESSORY": []
+}
