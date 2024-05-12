@@ -5,6 +5,10 @@ Easyark AH Searcher helps you find the best builds for your class in under 10 mi
 Discord Server: https://discord.gg/W3es2shxYS
 - We run 1 million gold giveaways every week..
 
+### Setup
+- Simply download and run
+- A GUI will open, follow below videos to know how to run it.
+
 ### Features
 - Works similarly to KR API AH searcher
 - No need to spend 1+ hours searching the market for a build for your alt class
