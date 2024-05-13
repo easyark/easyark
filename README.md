@@ -1,6 +1,6 @@
-# EasyArk Auction House Searcher Unoffical API
+# EasyArk AH Searcher Unoffical API
 
-Easyark Auction House Searcher helps you find the best builds for your class in under 10 mins.
+Easyark AH Searcher helps you find the best builds for your class in under 10 mins.
 
 Discord Server: https://discord.gg/W3es2shxYS
 - We run 1 million gold giveaways every week..
