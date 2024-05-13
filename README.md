@@ -1,13 +1,19 @@
-# EasyArk AH Searcher Unoffical API
+# EasyArk Auction House Searcher Unoffical API
 
-Easyark AH Searcher helps you find the best builds for your class in under 10 mins.
+Easyark Auction House Searcher helps you find the best builds for your class in under 10 mins.
 
 Discord Server: https://discord.gg/W3es2shxYS
 - We run 1 million gold giveaways every week..
+- We have other advanced tools in early access
 
 ### Setup
-- Simply download and run
-- A GUI will open, follow below videos to know how to run it.
+1. Download anywhere
+2. Unzip to a folder
+3. Run as administrator
+4. The first time you run auction.exe it will take around 10-20 seconds to setup then the GUI will open.
+5. The 2nd time you open and onwards it will not take more than 3 seconds.
+
+This is not a virus or malware software. Some sites will determine the program as false positive but its totally clean.
 
 ### Features
 - Works similarly to KR API AH searcher
