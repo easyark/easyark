@@ -2,7 +2,7 @@
 
 Easyark AH Searcher helps you find the best builds for your class in under 10 mins.
 
-Discord Server: https://discord.gg/W3es2shxYS
+Discord Server: https://easyarks.com/discord
 - We run 1 million gold giveaways every week..
 - We have other advanced tools in early access
 
